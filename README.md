@@ -24,3 +24,5 @@
   * Hollow Right Triangle
   * Hollow Inverted Right Triangle
   * Number Pyramid Pattern
+
+* **12/14/2025** – Practiced Python functions through problem-solving exercises, including **Celsius to Fahrenheit conversion**, **area of a rectangle**, **distance covered by a vehicle**, **number of lift rounds**, and **line equation calculations**.

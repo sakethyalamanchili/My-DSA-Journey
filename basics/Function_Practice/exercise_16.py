@@ -22,5 +22,8 @@ Examples:
 """
 
 def celsius_to_fahrenheit(c):
-    # Your code here
-    pass
+    C = float(c)
+    conversion = (((9 / 5) * C) + 32)
+    return conversion
+
+print(celsius_to_fahrenheit(21))
