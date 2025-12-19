@@ -14,4 +14,4 @@
 
 * **12/14/2025** – Practiced Python functions through problem-solving exercises such as Celsius to Fahrenheit conversion, area of a rectangle, distance covered by a vehicle, number of lift rounds, and line equation calculations.
 
-* **12/15/2025** – Solved problems using Python inbuilt data structures, including list aggregation and transformations, duplicate and subset checks, list rotation and merging, dictionary merging (with common keys), word frequency analysis, palindrome tuple validation, and element-wise comparisons.
+* **12/16/2025** – Practiced mathematical problem-solving using Python, including Sum of N Even Natural Numbers, Even number check, Prime number check, Perfect square validation, Decimal to Binary and Binary to Decimal conversion, and GCD of two numbers.
