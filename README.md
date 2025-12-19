@@ -16,4 +16,4 @@
 
 * **12/16/2025** – Practiced mathematical problem-solving using Python, including Sum of N Even Natural Numbers, Even number check, Prime number check, Perfect square validation, Decimal to Binary and Binary to Decimal conversion, and GCD of two numbers.
 
-* **12/17/2025 - 12/18/2025** - Break 
+* **12/17/2025 – 12/18/2025** – Break 
