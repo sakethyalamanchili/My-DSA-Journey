@@ -17,3 +17,5 @@
 * **12/16/2025** – Practiced mathematical problem-solving using Python, including Sum of N Even Natural Numbers, Even number check, Prime number check, Perfect square validation, Decimal to Binary and Binary to Decimal conversion, and GCD of two numbers.
 
 * **12/17/2025 – 12/18/2025** – Break 
+
+* **12/19/2025** – Worked on string practice problems using Python, including reversing a string, counting vowels and consonants, checking for identical strings, palindrome validation, word count in a string, removing duplicate characters, and anagram checking.
