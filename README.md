@@ -19,3 +19,5 @@
 * **12/17/2025 – 12/18/2025** – Break 
 
 * **12/19/2025** – Worked on string practice problems using Python, including reversing a string, counting vowels and consonants, checking for identical strings, palindrome validation, word count in a string, removing duplicate characters, and anagram checking.
+
+* **12/20/2025** – Practiced string-related problems using Python, including checking for subsequences, checking for substrings, and finding the length of the longest word in a string.

@@ -27,19 +27,19 @@ Examples:
 """
 
 def is_subsequence(s, t):
-    # Your code here
-    pass
+    if not t:
+        return True
+        
+    i = 0 
+    j = 0 
 
-s = "abcde"
-t = "ace"
-order = []
+    while i < len(s) and j < len(t):
+        if s[i] == t[j]:
+            j += 1
+        i += 1
 
-for idx, letter in enumerate(s):
-    if letter in t:
-        order.append(idx)
+    return j == len(t)
 
-for i in range(len(order)):
-    if order[i] < order[i+1]:
-        print(True)
-    else:
-        print(False)
+print(is_subsequence("abcde", "aec"))
+print(is_subsequence("abcde", "ace"))
+print(is_subsequence("abcde", ""))  
