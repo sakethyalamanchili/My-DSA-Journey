@@ -25,3 +25,7 @@
 * **12/21/2025 – 12/24/2025** – Break 
 
 * **12/25/2025** - Worked on Searching and Sorting Algorithms, covering Introduction to Arrays in Python, Linear Search, Binary Search, and Bubble Sort.
+
+* **12/26/2025** - Continued working on Searching and Sorting Algorithm, covering Selection Sort and Insertion Sort.
+
+* **12/27/2025** - Revised the Searching and Sorting Algorithms by creating helpful Notes. 
