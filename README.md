@@ -29,3 +29,5 @@
 * **12/26/2025** - Continued working on Searching and Sorting Algorithm, covering Selection Sort and Insertion Sort.
 
 * **12/27/2025** - Revised the Searching and Sorting Algorithms by creating helpful Notes. 
+
+* **12/28/2025** - Worked on an exercise problem on Binary Search Algorithm - Count Negatives in Sorted Matrix.
