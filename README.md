@@ -31,3 +31,5 @@
 * **12/27/2025** - Revised the Searching and Sorting Algorithms by creating helpful Notes. 
 
 * **12/28/2025** - Worked on an exercise problem on Binary Search Algorithm - Count Negatives in Sorted Matrix.
+
+* **12/29/2025** - Worked on an exercise problem on Binary Search Algorithm - Find Smallest Letter Greater Than Target.
