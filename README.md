@@ -33,3 +33,5 @@
 * **12/28/2025** - Worked on an exercise problem on Binary Search Algorithm - Count Negatives in Sorted Matrix.
 
 * **12/29/2025** - Worked on an exercise problem on Binary Search Algorithm - Find Smallest Letter Greater Than Target.
+
+* **12/30/2025** - Worked on an exercise problem on Binary Search Algorithm - Find First and Last Position of Element in Sorted Array.
