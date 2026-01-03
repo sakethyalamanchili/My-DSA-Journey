@@ -38,4 +38,4 @@
 
 * **12/31/2025 – 1/1/2026** – Break
 
-* **2/1/2026** - Worked on an exercise problem on Binary Search Algorithm - Minimum in Rotated Sorted Array and Search in Rotated Sorted Array.
+* **1/2/2026** - Worked on an exercise problem on Binary Search Algorithm - Minimum in Rotated Sorted Array and Search in Rotated Sorted Array.
