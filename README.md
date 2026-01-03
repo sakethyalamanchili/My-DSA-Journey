@@ -35,3 +35,7 @@
 * **12/29/2025** - Worked on an exercise problem on Binary Search Algorithm - Find Smallest Letter Greater Than Target.
 
 * **12/30/2025** - Worked on an exercise problem on Binary Search Algorithm - Find First and Last Position of Element in Sorted Array.
+
+* **12/31/2025 – 1/1/2026** – Break
+
+* **2/1/2026** - Worked on an exercise problem on Binary Search Algorithm - Minimum in Rotated Sorted Array and Search in Rotated Sorted Array.
