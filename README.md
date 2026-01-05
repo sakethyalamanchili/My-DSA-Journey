@@ -42,3 +42,4 @@
 
 * **1/3/2026** - Revised all the concepts in Binary Search!
 
+* **1/4/2026** - Worked on List/Array Practice Questions.
