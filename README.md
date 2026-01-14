@@ -43,3 +43,9 @@
 * **1/3/2026** - Revised all the concepts in Binary Search!
 
 * **1/4/2026** - Worked on List/Array Practice Questions.
+
+* **1/5/2026 – 1/11/2026** – Break
+
+* **1/12/2026** - Worked on Pascal's Triangle in 2D List Practice Questions.
+
+* **1/13/2026** - Worked on Rotate Image in 2D List Practice Questions.

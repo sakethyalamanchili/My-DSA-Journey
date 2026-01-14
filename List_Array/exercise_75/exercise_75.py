@@ -30,14 +30,21 @@ Examples:
 """
 
 def max_subarray_sum(arr):
-    """
-    Given an array of integers, find the maximum sum of any subarray.
+    max_sum = 0        # The highest sum found so far
+    current_sum = 0    # The sum of the current chain
 
-    Parameters:
-    arr (List[int]): List of integers.
+    for num in arr:
+        current_sum += num
+        
+        # 1. Update max if we found a new high
+        if current_sum > max_sum:
+            max_sum = current_sum
+            
+        # 2. Reset if we drop below zero
+        if current_sum < 0:
+            current_sum = 0
+            
+    return max_sum
 
-    Returns:
-    int: Maximum sum of any subarray.
-    """
-    # Implement the function
-    pass
+print(max_subarray_sum(arr = [-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+print(max_subarray_sum(arr = [-1, -2, -3]))
