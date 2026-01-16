@@ -49,3 +49,7 @@
 * **1/12/2026** - Worked on Pascal's Triangle in 2D List Practice Questions.
 
 * **1/13/2026** - Worked on Rotate Image in 2D List Practice Questions.
+
+* **1/14/2026** - Worked on Matrix obtained by Rotation or not? 
+
+* **1/15/2026** - Worked on Spiral Matrix.
