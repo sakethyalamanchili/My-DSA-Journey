@@ -55,3 +55,5 @@
 * **1/15/2026** - Worked on Spiral Matrix.
 
 * **1/16/2026 – 1/20/2026** – Break
+
+* **1/21/2026** - Worked on Search a 2D Matrix.
