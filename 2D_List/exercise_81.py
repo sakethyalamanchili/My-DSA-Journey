@@ -59,4 +59,4 @@ def matrix_reshape(mat, r, c):
         result.append(flat[start_idx : end_idx])
     return result            
 
-print(matrix_reshape(mat = [[1, 2], [3, 4]], r = 1, c = 4))
+print(matrix_reshape(mat = [[1, 2], [3, 4]], r = 2, c = 4))
