@@ -59,3 +59,7 @@
 * **1/21/2026** - Worked on Search a 2D Matrix.
 
 * **1/22/2026** - Worked on Reshape Matrix.
+
+* **1/23/2026 – 1/26/2026** – Break
+
+* **1/27/2026** - Learned how to structure professional Python projects by breaking code into Modules (files) and Packages (folders), which allows you to separate logic—like databases vs. payments—into clean, manageable parts.
