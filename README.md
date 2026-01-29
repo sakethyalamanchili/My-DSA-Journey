@@ -64,4 +64,4 @@
 
 * **1/27/2026** - Learned how to structure professional Python projects by breaking code into Modules (files) and Packages (folders), which allows you to separate logic—like databases vs. payments—into clean, manageable parts.
 
-* **1/27/2026** - Revised File handling and Exception handling concepts. 
+* **1/28/2026** - Revised File handling and Exception handling concepts. 
